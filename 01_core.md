@@ -109,7 +109,7 @@ Two-Weapon Fighting: When you miss an attack with your main hand, you can make a
 - Craft: 1 mundane / valuable / treasure + components = 1 mundane / special / magical item
 - Tame beast: 1 valuable per HD = 1 follower. 1 valuable = 1 extra one word command
 - Contact elder horror: 1 valuable = 1 mutation
-- Contact celestial beign: 1 valuable = 1 quest + 1 reward. Lose soul if quest is not completed.
+- Contact celestial beignet: 1 valuable = 1 quest + 1 reward. Lose soul if quest is not completed.
 - Construct construct: see description
 - Bind elemental: 1 treasure + 1 elemental core = 1 binding table roll + 1 spell die
 - Level up: 1 treasure + carousing = + 2 HP (max 20), +1 stat (max 10), next template
